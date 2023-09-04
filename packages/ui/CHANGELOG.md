@@ -1,5 +1,16 @@
 # @lion/ui
 
+## 0.4.0
+
+### Minor Changes
+
+- a3738b50: Bypass the requirement to support export & import map to consume @lion/ui
+
+### Patch Changes
+
+- b0a74f28: fix(progress-indicator): accept 0 as a valid value
+- 4cc72b12: feat: allow Required validator on Fieldset and Form;
+
 ## 0.4.0-prerelease-bypass-export-map.0
 
 ### Minor Changes
